@@ -50,12 +50,12 @@ module.exports.destroy=async function(req,res){
     }
          
 }
-// update the data
+// update the data bhai query use hota hai ? mark wale mein acha bbhai ek baar postman check krlu ek second
 module.exports.update=function(req,res){
     try{
         Product.findOneAndUpdate({_id:req.params.id},
           {$set:
-            {quantity:req.params.number}},function(err,product){
+            {quantity:req.query.number}},function(err,product){
                 if(err){
                     console.log("product not found");
                 }
