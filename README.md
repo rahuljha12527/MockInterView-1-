@@ -7,7 +7,7 @@
 <h1>CRUD Operation</h1>
 
 
-<h4>for checking the data list</h4>
+<h4>for checking the data int the database</h4>
 <h4>http://localhost:8000/api/v1/product</h4>
 
 
@@ -21,3 +21,6 @@
 
 <h4>for updating the data in database</h4>
 <h4>http://localhost:8000/api/v1/product/:id/update_quantity?number=9</h4>
+
+
+For run the project download it clone and node index.js 
