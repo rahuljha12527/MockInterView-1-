@@ -3,7 +3,10 @@ const express=require('express');
 const router=express.Router();
 const productController=require('../controllers/ProductController');
 
-router.get('/create',productController.create);
+router.get('/',productController.create);
+
+router.use('/api',require('./api'));
+
   
 console.log('router loaded');
 
