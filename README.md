@@ -12,6 +12,29 @@
 <h4>for checking the data int the database</h4>
 <h4>http://localhost:8000/api/v1/product</h4>
 
+{
+    "Products": [
+        {
+            "_id": "5ea9cd812113416e440f5d7a",
+            "name": "rahul jha",
+            "quantity": 1,
+            "__v": 0
+        },
+        {
+            "_id": "5ea9cf11b43d4e6fd8ea21e1",
+            "name": "rahul jha",
+            "quantity": 9,
+            "__v": 0
+        },
+        {
+            "_id": "5eaa6d0af8088a6ee81dbc9e",
+            "name": "rahul jha",
+            "quantity": null,
+            "__v": 0
+        }
+    ]
+}
+
 
 
 <h4>for creating the data in database</h4>
