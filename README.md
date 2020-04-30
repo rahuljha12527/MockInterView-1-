@@ -16,19 +16,19 @@
     "Products": [<br>
         {<br>
             "_id": "5ea9cd812113416e440f5d7a",<br>
-            "name": "rahul jha",<br>
+            "name": "laptop",<br>
             "quantity": 1,<br>
             "__v": 0<br>
         },<br>
         {<br>
             "_id": "5ea9cf11b43d4e6fd8ea21e1",<br>
-            "name": "rahul jha",<br>
+            "name": "laptop",<br>
             "quantity": 9,<br>
             "__v": 0<br>
         },<br>
         {<br>
             "_id": "5eaa6d0af8088a6ee81dbc9e",<br>
-            "name": "rahul jha",<br>
+            "name": "laptop",<br>
             "quantity": null,<br>
             "__v": 0<br>
         }<br>
